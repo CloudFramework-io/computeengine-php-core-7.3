@@ -1,0 +1,14 @@
+{
+  "name": "cloudframework-io/computeengine-php-core-7.3",
+  "keywords": ["computeengine", "google", "framework", "cloudframwork"],
+  "description": "Framework to develop API Google Compute Engine PHP 7.3",
+  "type":"library",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+  },
+  "authors": [
+    { "name": "Héctor López", "email": "hl@cloudframework.io"},
+    { "name": "Fran Herrera", "email": "fran@cloudframework.io"}
+  ]
+}
